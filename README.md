@@ -1,4 +1,4 @@
-# Bloxorz AI Solver
+# Bloxorz AI
 
 ## Overview
 This repository contains an AI solver for the popular puzzle game Bloxorz. 
