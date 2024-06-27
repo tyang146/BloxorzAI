@@ -10,4 +10,4 @@ The project is written in Python and employs algorithms like Breadth-First Searc
 
 ## Getting Started
 - Run .ipynb file in Google Colab or Juypter Notebook
-- Import maps in map folder as needed
+- Import maps in maps folder as needed
