@@ -7,5 +7,4 @@ The project is written in Python and employs algorithms like Breadth-First Searc
 
 ## Technologies Used
 - Python
-- Google Colab
-- Juypter Notebook
+- Google Colab or Juypter Notebook
